@@ -1,0 +1,30 @@
+.container{
+    width: 1600px;
+    height: 539px;
+    border: 1px;
+}
+
+.rectangle_1{
+    width: 1600px;
+    height: 84px;
+
+}
+
+.basket{
+    src: url("/images/ball.jpg");
+    width: 29px;
+    height: 29px;
+    top: 29px;
+    left: 219px;
+}
+
+.menu{
+    width: 97px;
+    height: 15px;
+    top: 27px;
+    left: 258px;
+    size: 12px;
+    line-height: 14.63px;
+    font-weight: 700;
+    color: #3145FF;
+}
